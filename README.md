@@ -15,5 +15,5 @@ I am using Docker to run PostgreSQL, which simplifies installation and ensures a
 Contains public sector information licensed under the Open Government Licence v3.0.
 
 **Proof Of Work**
-![image](https://github.com/user-attachments/assets/138b8859-9425-41a4-a5df-18339cf50d1a)
+![POW](https://github.com/user-attachments/assets/0569eb31-e272-46de-b0f9-793462c4d20e)
 
